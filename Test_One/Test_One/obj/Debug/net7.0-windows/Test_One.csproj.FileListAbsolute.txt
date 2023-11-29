@@ -1,0 +1,16 @@
+C:\Users\mish\Documents\GitHub\tutorial-kn\Test_One\Test_One\bin\Debug\net7.0-windows\Test_One.exe
+C:\Users\mish\Documents\GitHub\tutorial-kn\Test_One\Test_One\bin\Debug\net7.0-windows\Test_One.deps.json
+C:\Users\mish\Documents\GitHub\tutorial-kn\Test_One\Test_One\bin\Debug\net7.0-windows\Test_One.runtimeconfig.json
+C:\Users\mish\Documents\GitHub\tutorial-kn\Test_One\Test_One\bin\Debug\net7.0-windows\Test_One.dll
+C:\Users\mish\Documents\GitHub\tutorial-kn\Test_One\Test_One\bin\Debug\net7.0-windows\Test_One.pdb
+C:\Users\mish\Documents\GitHub\tutorial-kn\Test_One\Test_One\obj\Debug\net7.0-windows\Test_One.Form1.resources
+C:\Users\mish\Documents\GitHub\tutorial-kn\Test_One\Test_One\obj\Debug\net7.0-windows\Test_One.csproj.GenerateResource.cache
+C:\Users\mish\Documents\GitHub\tutorial-kn\Test_One\Test_One\obj\Debug\net7.0-windows\Test_One.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mish\Documents\GitHub\tutorial-kn\Test_One\Test_One\obj\Debug\net7.0-windows\Test_One.AssemblyInfoInputs.cache
+C:\Users\mish\Documents\GitHub\tutorial-kn\Test_One\Test_One\obj\Debug\net7.0-windows\Test_One.AssemblyInfo.cs
+C:\Users\mish\Documents\GitHub\tutorial-kn\Test_One\Test_One\obj\Debug\net7.0-windows\Test_One.csproj.CoreCompileInputs.cache
+C:\Users\mish\Documents\GitHub\tutorial-kn\Test_One\Test_One\obj\Debug\net7.0-windows\Test_One.dll
+C:\Users\mish\Documents\GitHub\tutorial-kn\Test_One\Test_One\obj\Debug\net7.0-windows\refint\Test_One.dll
+C:\Users\mish\Documents\GitHub\tutorial-kn\Test_One\Test_One\obj\Debug\net7.0-windows\Test_One.pdb
+C:\Users\mish\Documents\GitHub\tutorial-kn\Test_One\Test_One\obj\Debug\net7.0-windows\Test_One.genruntimeconfig.cache
+C:\Users\mish\Documents\GitHub\tutorial-kn\Test_One\Test_One\obj\Debug\net7.0-windows\ref\Test_One.dll
